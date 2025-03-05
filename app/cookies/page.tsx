@@ -227,7 +227,7 @@ const CookiePolicy = () => {
             you can often change this setting to stop accepting them. You can
             also delete cookies manually. You can read how to do this at
             <a
-              href="https://www.digitaltrends.com/computing/how-to-delete-cookies/"
+              href="https://www.digitaltrends.com/computing/how-to-delete-cookies"
               className="text-green-600 underline"
             >
                https://www.digitaltrends.com/computing/how-to-delete-cookies/.

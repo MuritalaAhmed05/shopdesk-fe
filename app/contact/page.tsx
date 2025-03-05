@@ -2,7 +2,7 @@ import React from "react";
 
 const contact = () => {
   return (
-    <div className="container mx-auto py-10 px-4" >
+    <div className="px-[clamp(16px,_4vw,_120px)] py-10  w-full" >
 
       <div className="text-center">
         <h1 className="text-4xl font-bold">
@@ -15,7 +15,7 @@ const contact = () => {
         </p>
       </div>
 
-      <form className="space-y-4">
+      <form className="space-y-4 w-full">
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
           <input
             type="text"
